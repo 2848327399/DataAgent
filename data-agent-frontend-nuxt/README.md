@@ -45,6 +45,10 @@ pnpm dev
 pnpm build
 ```
 
+## 📚 前端零基础学习手册
+
+如果你刚开始学习前端，建议从 [前端学习手册](./docs/frontend-learning/README.md) 开始。手册不要求 Vue 基础，会先解释浏览器、HTML、CSS、JavaScript 和 TypeScript，再带你沿着“新建智能体”“业务知识 CRUD”“数据问答”三条主线阅读本项目源码。
+
 ## 🤖 AI 上下文治理 (Context Governance)
 
 本项目引入了自动化的 AI 文档生成体系，确保 AI 能够精确理解代码逻辑：

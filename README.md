@@ -92,10 +92,13 @@ pnpm install && pnpm dev
 | 文档 | 此文档包含的内容 |
 | :--- | :--- |
 | [快速开始](docs/QUICK_START.md) | 环境要求、数据库导入、基础配置、系统初体验 |
+| [生产部署](docs/DEPLOYMENT.md) | 使用 Docker Compose 部署前端、后端与 MySQL，配置 HTTPS、备份和排障 |
 | [架构设计](docs/ARCHITECTURE.md) | 系统分层架构、StateGraph与工作流设计、核心模块时序图 |
 | [开发者指南](docs/DEVELOPER_GUIDE.md) | 开发环境搭建、详细配置手册、代码规范、扩展开发(向量库/模型) |
 | [高级功能](docs/ADVANCED_FEATURES.md) | API Key 调用、MCP 服务器配置、自定义混合检索策略、SAA Python 沙盒与动态依赖 |
 | [知识配置最佳实践](docs/KNOWLEDGE_USAGE.md) | 语义模型，业务知识，智能体知识的解释和使用 |
+| [Spring AI 零基础学习手册](docs/spring-ai-learning/README.md) | 从 ChatClient、结构化输出和 RAG 学到 Graph，并逐步映射到本项目源码 |
+| [DataAgent 项目实战学习指南](docs/dataagent-study-guide/README.md) | 项目架构、启动配置、完整调用链、源码路线与场景排障 |
 
 ## 🤝 加入社区 & 贡献
 

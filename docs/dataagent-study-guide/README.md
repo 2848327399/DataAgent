@@ -2,6 +2,8 @@
 
 这是一套面向首次跑通项目后的中文学习资料。内容以本项目当前代码为准，并结合两个已经验证的场景：产品订单分析与大学生就业分析。
 
+如果你是 Spring AI 零基础，建议先阅读 [Spring AI × DataAgent 零基础学习手册](../spring-ai-learning/README.md)，掌握 ChatClient、结构化输出、RAG、Memory、Tool 和 Graph，再回到本指南做项目实战。
+
 ## 阅读顺序
 
 1. [01-项目架构与模块职责.md](01-项目架构与模块职责.md)：先建立全局认识。

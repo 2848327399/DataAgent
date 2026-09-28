@@ -1,0 +1,15 @@
+.git
+.codex
+.github
+.idea
+.vscode
+.env
+**/.nuxt
+**/.output
+**/node_modules
+**/target
+**/logs
+**/.DS_Store
+uploads
+vectorstore
+data-agent-management/vectorstore
